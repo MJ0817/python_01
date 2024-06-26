@@ -13,3 +13,9 @@ c = 8
 print(a >= b)
 print(a == b)
 print(a != b)
+
+# 2 사칙연산
+
+c = 23
+d = 41
+print(c >= d)
